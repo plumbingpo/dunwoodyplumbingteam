@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dunwoodyplumbingteam.com/sitemap.xml
